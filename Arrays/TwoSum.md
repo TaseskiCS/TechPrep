@@ -26,5 +26,6 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
 
 ## Explanation
 Assigns each key to a value and checks if the difference between the target and the current value is in the hashmap, which if it is, then that would mean the current value + value in the map would equal the target, since each difference is unique in the map. We iterate over the "nums" list one time, which means the time complexity is O(n). Theoretically we could add each value from "nums" to "temp" so the space complexity is also O(n).
+
 ## Time: O(n)
 ## Space: O(n)
