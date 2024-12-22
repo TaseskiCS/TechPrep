@@ -23,3 +23,5 @@
 ### Strings
 [Valid Palindrome](https://github.com/TaseskiCS/TechPrep/blob/main/String/ValidPalindrome.md)
 
+[Valid Anagram](https://github.com/TaseskiCS/TechPrep/blob/main/String/ValidAnagram.md)
+
