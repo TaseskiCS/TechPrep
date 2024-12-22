@@ -18,6 +18,8 @@
 
 [Best Time to Buy and Sell Stock](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/BuySellStock.md)
 
+[Contains Duplicate](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/ContainsDuplicate.md)
+
 ### Strings
-[Valid Palindrome](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/ValidPalindrome.md)
+[Valid Palindrome](https://github.com/TaseskiCS/TechPrep/blob/main/String/ValidPalindrome.md)
 
