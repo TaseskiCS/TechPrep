@@ -25,3 +25,5 @@
 
 [Valid Anagram](https://github.com/TaseskiCS/TechPrep/blob/main/String/ValidAnagram.md)
 
+[Merge Strings Alternately](https://github.com/TaseskiCS/TechPrep/blob/main/String/MergeStringsAlternately.md)
+
