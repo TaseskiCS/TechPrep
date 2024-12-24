@@ -20,6 +20,8 @@
 
 [Contains Duplicate](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/ContainsDuplicate.md)
 
+[Kids With the Greatest Number of Candies](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/KidsGreatestCandies.md)
+
 ### Strings
 [Valid Palindrome](https://github.com/TaseskiCS/TechPrep/blob/main/String/ValidPalindrome.md)
 
