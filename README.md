@@ -29,3 +29,8 @@
 
 [Merge Strings Alternately](https://github.com/TaseskiCS/TechPrep/blob/main/String/MergeStringsAlternately.md)
 
+
+
+### Stack
+[Valid Parentheses](https://github.com/TaseskiCS/TechPrep/blob/main/Stack/ValidParentheses.md)
+
