@@ -2,7 +2,7 @@
 
 <div style="display:flex; flex-direction: column">
     <div style="justify-content: center">
-        <bold><h3 style="text-align: center;">Features solutions to DSA problems using python through sites like LeetCode and Hackerrank</h3>
+        <bold><h3 style="text-align: center;">Features solutions to Data Structures and other challenges through sites like LeetCode and Hackerrank</h3>
         </bold>
     <div>
     <div style="display:flex; justify-content: center">
