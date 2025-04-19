@@ -1,4 +1,4 @@
-# Leetcode 217 Contains Duplicate
+# Leetcode 49 Group Anagrams
 
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
@@ -17,25 +17,32 @@ The strings "ate", "eat", and "tea" are anagrams as they can be rearranged to fo
 
 ## Solution
 ```python
- def containsDuplicate(self, nums: List[int]) -> bool:
-        i = 0
-        temp = set()
-        while i < len(nums):
-            if nums[i] in temp:
-                return True
-            else:
-                temp.add(nums[i])
-            i+=1
+ def groupAnagrams(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
+        map = {} # initialize map for holding, sorted string : strs[i]
+        groups = [] # return list
 
-        return False
+        for i in strs:
+            key = "".join(sorted(i)) # sort current string
+            if key not in map:       
+                map[key] = []        
+            map[key].append(i)        
+
+        for i in map:
+            groups.append(map[i])
+        return groups
 ```
 
 ## Explanation
-Initialize empty set, iterate through nums and compare each value to see if it's already in the set, if not add it.
+Initialize empty hashmap for storing our key which is the sorted word, and the current word that is an anagram to it.
+Loop through list and sort each word going through, check if already in map, if not set a key to that sorted word, then append the unsorted version to it.
+To return the groups just loop through the map pulling all the values and appending them into a return list.
 
-Go through nums once, and check if any value is in `temp`, so O(n) + O(n) = 2*O(n), therefore time complexity is O(n).
+Time complexity stems from sorting which will take O(nlogn) time and then having to go over the other characters in it's unsorted version.
 
-Initialized a set which takes up O(n) space.
 
-## Time: O(n)
-## Space: O(n)
+## Time: O(m*n logn)
+## Space: O(m*n)
