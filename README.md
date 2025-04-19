@@ -13,12 +13,14 @@
 
 ## Completed Problems
 
-### Arrays
+### Arrays & Hashing
 [Two Sum](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/TwoSum.md)
 
 [Best Time to Buy and Sell Stock](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/BuySellStock.md)
 
 [Contains Duplicate](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/ContainsDuplicate.md)
+
+[Group Anagrams](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/GroupAnagrams.md)
 
 [Kids With the Greatest Number of Candies](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/KidsGreatestCandies.md)
 
