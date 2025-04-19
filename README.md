@@ -16,6 +16,9 @@
 ### Arrays & Hashing
 [Two Sum](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/TwoSum.md)
 
+
+[Longest Consecutive Sequence](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/LongestConsecutiveSequence.md)
+
 [Top K Frequent Elements](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/TopKFrequent.md)
 
 [Best Time to Buy and Sell Stock](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/BuySellStock.md)
