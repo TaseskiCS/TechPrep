@@ -41,3 +41,9 @@
 ### Stack
 [Valid Parentheses](https://github.com/TaseskiCS/TechPrep/blob/main/Stack/ValidParentheses.md)
 
+[Minimum Stack](https://github.com/TaseskiCS/TechPrep/blob/main/Stack/MinimumStack.md)
+
+[Evaluate Reverse Polish Notation](https://github.com/TaseskiCS/TechPrep/blob/main/Stack/EvaluateNotation.md)
+
+
+
