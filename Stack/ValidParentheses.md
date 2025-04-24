@@ -1,4 +1,4 @@
-# Leetcode 242 Valid Anagram
+# Leetcode 20 Valid Parentheses
 
 You are given a string s consisting of the following characters: '(', ')', '{', '}', '[' and ']'.
 
