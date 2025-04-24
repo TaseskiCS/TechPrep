@@ -30,8 +30,6 @@
 [Kids With the Greatest Number of Candies](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/KidsGreatestCandies.md)
 
 ### Strings
-[Valid Palindrome](https://github.com/TaseskiCS/TechPrep/blob/main/String/ValidPalindrome.md)
-
 [Valid Anagram](https://github.com/TaseskiCS/TechPrep/blob/main/String/ValidAnagram.md)
 
 [Merge Strings Alternately](https://github.com/TaseskiCS/TechPrep/blob/main/String/MergeStringsAlternately.md)
@@ -44,6 +42,11 @@
 [Minimum Stack](https://github.com/TaseskiCS/TechPrep/blob/main/Stack/MinimumStack.md)
 
 [Evaluate Reverse Polish Notation](https://github.com/TaseskiCS/TechPrep/blob/main/Stack/EvaluateNotation.md)
+
+### Two Pointers
+[Valid Palindrome](https://github.com/TaseskiCS/TechPrep/blob/main/Two-Pointers/ValidPalindrome.md)
+
+[Container With Most Water](https://github.com/TaseskiCS/TechPrep/blob/main/Two-Pointers/ContainerMostWater.md)
 
 
 
