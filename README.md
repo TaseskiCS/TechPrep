@@ -11,7 +11,7 @@
     </div>
 </div>
 
-## Completed Problems
+## Completed Problems :
 
 ### Arrays & Hashing
 [LC 1: Two Sum](https://github.com/TaseskiCS/TechPrep/blob/main/Arrays/TwoSum.md)
